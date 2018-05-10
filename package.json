@@ -1,0 +1,19 @@
+{
+  "name": "htmlboilerplate",
+  "version": "1.0.0",
+  "description": "An HTML boilerplate for new projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAggrippino/htmlboilerplate.git"
+  },
+  "author": "Vince Aggrippino",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/VAggrippino/htmlboilerplate/issues"
+  },
+  "homepage": "https://github.com/VAggrippino/htmlboilerplate#readme"
+}
