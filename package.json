@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/VAggrippino/htmlboilerplate/issues"
   },
-  "homepage": "https://github.com/VAggrippino/htmlboilerplate#readme"
+  "homepage": "https://github.com/VAggrippino/htmlboilerplate#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "stylelint": "^9.2.0",
+    "stylelint-config-standard": "^18.2.0"
+  }
 }
