@@ -23,5 +23,8 @@
     "eslint-plugin-import": "^2.11.0",
     "stylelint": "^9.2.0",
     "stylelint-config-standard": "^18.2.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.0"
   }
 }
