@@ -1,4 +1,4 @@
-# Created by https://www.gitignore.io/api/node,visualstudiocode
+# Created by https://www.gitignore.io/api/node,sass,visualstudiocode
 
 ### Node ###
 # Logs
@@ -60,6 +60,10 @@ typings/
 # dotenv environment variables file
 .env
 
+### Sass ###
+.sass-cache/
+*.css.map
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -69,5 +73,5 @@ typings/
 .history
 
 
-# End of https://www.gitignore.io/api/node,visualstudiocode
+# End of https://www.gitignore.io/api/node,sass,visualstudiocode
  

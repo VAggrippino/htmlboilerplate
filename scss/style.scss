@@ -1,5 +1,5 @@
-@charset "UTF-8";
-@import url("normalize.css");
+@import url('normalize.css');
+
 html,
 body {
   margin: 0;
@@ -10,7 +10,18 @@ body {
   /* Using UI System Fonts In Web Design: A Quick Practical Guide
    * https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/
    */
-  font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, “Roboto”, “Oxygen”, “Ubuntu”, “Cantarell”, “Fira Sans”, “Droid Sans”, “Helvetica Neue”, sans-serif;
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    “Segoe UI”,
+    “Roboto”,
+    “Oxygen”,
+    “Ubuntu”,
+    “Cantarell”,
+    “Fira Sans”,
+    “Droid Sans”,
+    “Helvetica Neue”,
+    sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -73,5 +84,3 @@ footer .social a:hover {
     justify-content: center;
   }
 }
-
-/*# sourceMappingURL=css/style.css.map */
