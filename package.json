@@ -4,7 +4,9 @@
   "description": "An HTML boilerplate for new projects",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass --style=compressed scss\\style.scss css\\style.css",
+    "devstart": "nodemon --watch scss --ext scss --exec \"npm run scss\""
   },
   "repository": {
     "type": "git",
